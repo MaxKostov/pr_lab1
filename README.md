@@ -140,7 +140,7 @@ After the build:
 
 ## 8. Example Output (Main menu)
   
-<img src="images/client.png" width="500" />
+<img src="images/menu.png" width="500" />
 ---
 ## 9. Conclusion
 During this laboratory work I have:
