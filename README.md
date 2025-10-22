@@ -131,16 +131,16 @@ After the build:
 ---
 ## 6. Example Output (Server Console)
 
-<img src="images/images.png" width="200" />
+<img src="images/images.png" width="500" />
 ---
 ## 7. Example Output (Client Console)
   
-<img src="images/client.png" width="200" />
+<img src="images/client.png" width="500" />
 ---
 
 ## 8. Example Output (Main menu)
   
-<img src="images/client.png" width="200" />
+<img src="images/client.png" width="500" />
 ---
 ## 9. Conclusion
 During this laboratory work I have:
