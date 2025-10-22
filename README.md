@@ -131,44 +131,18 @@ After the build:
 ---
 ## 6. Example Output (Server Console)
 
-```
-
-Serving /path/to/site on port 8000
-
-Connection from ('127.0.0.1', 53124)
-
-Connection from ('127.0.0.1', 53128)
-
-Connection from ('127.0.0.1', 53133)
-
-```
-  
+<img src="images/images.png" width="200" />
 ---
 ## 7. Example Output (Client Console)
   
-```
-
-$ python3 client.py localhost 8000 /index.html ./downloads
-
-Status: HTTP/1.1 200 OK
-
-<html>
-
-<body>
-
-<h1>Welcome to Lab 1 site</h1>
-
-<p>Here is an image and some PDFs:</p>
-
-<img src="/image.png" alt="img">
-
-</body>
-
-</html>
-
-```
+<img src="images/client.png" width="200" />
 ---
-## 8. Conclusion
+
+## 8. Example Output (Main menu)
+  
+<img src="images/client.png" width="200" />
+---
+## 9. Conclusion
 During this laboratory work I have:
 * Implemented an HTTP server from scratch using **TCP sockets**.
 * Learned how HTTP requests and responses are structured.
